@@ -150,8 +150,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aula14b">
-    <configuration name="aula13a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.VTC">
+    <configuration name="VTC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aulas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula13a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VTC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +261,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.aula9a" />
-      <item itemvalue="Python.aula13a" />
       <item itemvalue="Python.aula13b" />
       <item itemvalue="Python.aula13c" />
       <item itemvalue="Python.aula14a" />
       <item itemvalue="Python.aula14b" />
+      <item itemvalue="Python.VTC" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.VTC" />
         <item itemvalue="Python.aula14b" />
         <item itemvalue="Python.aula14a" />
         <item itemvalue="Python.aula13c" />
         <item itemvalue="Python.aula13b" />
-        <item itemvalue="Python.aula13a" />
       </list>
     </recent_temporary>
   </component>
